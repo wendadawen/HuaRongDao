@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "introduce",
+      "value": "    拼图华容道是一款经典的益智解谜游戏，它的玩法类似于华容道。在这个游戏中，一张图片被切割成若干个小块，然后打乱顺序，你需要通过移动小块来还原原始的图片。"
+    }
+  ]
+}
